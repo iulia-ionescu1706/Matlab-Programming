@@ -1,0 +1,1 @@
+Eroarea de la linia din printscreenul cu numele plot_5 este cauza de ce nu s-a plotat al doilea grafic. Nu am stiut cum as putea sa o rezolv.
